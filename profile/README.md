@@ -4,6 +4,8 @@
 
 We build infrastructure for a world where your data stays yours. No key escrow. No "trust us" security models. No cloud dependency. Just working cryptography and clean engineering.
 
+We build for where the world is going — not where it's been.
+
 This is the code and research library behind [ydun.io](https://www.ydun.io). Founded by James Barclay in Sweden.
 
 ---
@@ -30,10 +32,6 @@ Zero-knowledge sync protocol for local-first apps. The relay never sees your dat
 - **QUIC transport** via iroh — relay-first with P2P as bonus
 - **309 tests passing**, 2 security audits complete
 - Post-quantum hybrid design (ML-KEM-768) in progress
-
-### [curve25519-dalek](https://github.com/ydun-code-library/curve25519-dalek)
-
-Fork of [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) — pure-Rust arithmetic over Curve25519 and Ristretto.
 
 ---
 
